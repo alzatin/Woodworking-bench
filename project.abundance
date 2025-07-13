@@ -94,7 +94,7 @@
                         {
                             "atomType": "Rectangle",
                             "name": "Rectangle",
-                            "x": 0.22927807486631016,
+                            "x": 0.23382045929018788,
                             "y": 0.4367469879518072,
                             "uniqueID": "2b72448c-ab9e-468e-853c-a5fc843b5bd9",
                             "ioValues": [
@@ -142,8 +142,8 @@
                         {
                             "atomType": "Extrude",
                             "name": "Extrude",
-                            "x": 0.42708333333333337,
-                            "y": 0.2620481927710844,
+                            "x": 0.31106471816283926,
+                            "y": 0.2439759036144578,
                             "uniqueID": "afc4db48-27c9-4eaf-92e2-953313b76b3b",
                             "ioValues": [
                                 {
@@ -160,8 +160,8 @@
                         {
                             "atomType": "Rotate",
                             "name": "Rotate",
-                            "x": 0.5855949895615866,
-                            "y": 0.40963855421686746,
+                            "x": 0.6430062630480167,
+                            "y": 0.3704819277108434,
                             "uniqueID": "ba7b3d5f-91e5-41d4-ac66-a88c3feadd1c",
                             "ioValues": [
                                 {
@@ -186,8 +186,8 @@
                         {
                             "atomType": "Move",
                             "name": "Move",
-                            "x": 0.6701030927835051,
-                            "y": 0.6445783132530121,
+                            "x": 0.7693110647181628,
+                            "y": 0.6475903614457831,
                             "uniqueID": "ffc31a1d-d757-489f-8d3c-d67e78693562",
                             "ioValues": [
                                 {
@@ -242,8 +242,8 @@
                         {
                             "atomType": "GitHubMolecule",
                             "name": "Linear-Pattern",
-                            "x": 0.4498956158663883,
-                            "y": 0.5,
+                            "x": 0.45407098121085593,
+                            "y": 0.4457831325301205,
                             "uniqueID": "f3979f43-a6bc-49be-ab4c-6eeadccd70f9",
                             "ioValues": [
                                 {
@@ -252,7 +252,7 @@
                                 },
                                 {
                                     "name": "Geometry",
-                                    "ioValue": "NaN4db48-27c9-4eaf-92e2-953313b76b3b"
+                                    "ioValue": "afc4db48-27c9-4eaf-92e2-953313b76b3b"
                                 },
                                 {
                                     "name": "distX",
@@ -260,7 +260,7 @@
                                 },
                                 {
                                     "name": "distY",
-                                    "ioValue": 10
+                                    "ioValue": 0
                                 },
                                 {
                                     "name": "distZ",
@@ -331,7 +331,7 @@
                                     "ioValues": [
                                         {
                                             "name": "Shape",
-                                            "ioValue": "NaN4db48-27c9-4eaf-92e2-953313b76b3b"
+                                            "ioValue": "afc4db48-27c9-4eaf-92e2-953313b76b3b"
                                         },
                                         {
                                             "name": "Number",
@@ -343,7 +343,7 @@
                                         },
                                         {
                                             "name": "distY",
-                                            "ioValue": 10
+                                            "ioValue": 0
                                         },
                                         {
                                             "name": "distZ",
