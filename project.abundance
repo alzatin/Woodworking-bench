@@ -1,13 +1,157 @@
 {
     "atomType": "Molecule",
-    "name": "Woodworking bench",
+    "name": "Woodworking-bench",
     "x": 0,
     "y": 0,
     "uniqueID": "abf8bae4-4994-49ec-9640-73845e4d7aa4",
     "ioValues": [],
     "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
     "topLevel": true,
-    "allAtoms": [],
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.98,
+            "y": 0.5,
+            "uniqueID": "b5ad519a-26cb-4413-814d-bd4e4236f6ab",
+            "ioValues": [],
+            "description": "Connect geometry here to make it available in the next level up. "
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Undercarriage",
+            "x": 0.1283422459893048,
+            "y": 0.4246987951807229,
+            "uniqueID": "b5a3b939-1555-4c51-8f68-02e388354c70",
+            "ioValues": [],
+            "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.98,
+                    "y": 0.5,
+                    "uniqueID": "09575b2d-565c-4129-a06d-fd51cdef4919",
+                    "ioValues": [],
+                    "description": "Connect geometry here to make it available in the next level up. "
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Leg",
+                    "x": 0.17780748663101603,
+                    "y": 0.4397590361445783,
+                    "uniqueID": "1b6884c1-f648-4cb7-9c3d-a78e810a8451",
+                    "ioValues": [
+                        {
+                            "name": "underheight",
+                            "ioValue": 34
+                        },
+                        {
+                            "name": "leg width",
+                            "ioValue": 4
+                        }
+                    ],
+                    "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
+                    "topLevel": false,
+                    "allAtoms": [
+                        {
+                            "atomType": "Output",
+                            "name": "Output",
+                            "x": 0.98,
+                            "y": 0.5,
+                            "uniqueID": "f983be95-0031-4439-9749-5852d5ec829c",
+                            "ioValues": [],
+                            "description": "Connect geometry here to make it available in the next level up. "
+                        },
+                        {
+                            "atomType": "Rectangle",
+                            "name": "Rectangle",
+                            "x": 0.1751336898395722,
+                            "y": 0.4367469879518072,
+                            "uniqueID": "2b72448c-ab9e-468e-853c-a5fc843b5bd9",
+                            "ioValues": [
+                                {
+                                    "name": "x length",
+                                    "ioValue": 4
+                                },
+                                {
+                                    "name": "y length",
+                                    "ioValue": 34
+                                }
+                            ],
+                            "description": "Creates a new rectangle."
+                        },
+                        {
+                            "atomType": "Input",
+                            "name": "underheight",
+                            "x": 0.024749999999999998,
+                            "y": 0.5,
+                            "uniqueID": "85748a51-ccc9-4fa9-aeef-32ef25bb1b86",
+                            "ioValues": [],
+                            "description": "Adds an input to the parent molecule. If the parent molecule is the top level of the project then the input will be available when the project is shared or imported into another project. Name is editable",
+                            "type": "number"
+                        },
+                        {
+                            "atomType": "Input",
+                            "name": "leg width",
+                            "x": 0.024749999999999998,
+                            "y": 0.7891566265060241,
+                            "uniqueID": "d2943f25-4ad1-4dbd-8b8a-d52f8921e5eb",
+                            "ioValues": [],
+                            "description": "Adds an input to the parent molecule. If the parent molecule is the top level of the project then the input will be available when the project is shared or imported into another project. Name is editable",
+                            "type": "number"
+                        }
+                    ],
+                    "allConnectors": [
+                        {
+                            "ap1Name": "number or geometry",
+                            "ap2Name": "y length",
+                            "ap2Primary": false,
+                            "ap1ID": "85748a51-ccc9-4fa9-aeef-32ef25bb1b86",
+                            "ap2ID": "2b72448c-ab9e-468e-853c-a5fc843b5bd9"
+                        },
+                        {
+                            "ap1Name": "number or geometry",
+                            "ap2Name": "x length",
+                            "ap2Primary": false,
+                            "ap1ID": "d2943f25-4ad1-4dbd-8b8a-d52f8921e5eb",
+                            "ap2ID": "2b72448c-ab9e-468e-853c-a5fc843b5bd9"
+                        }
+                    ],
+                    "fileTypeVersion": 1,
+                    "compiledBom": {}
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1,
+            "compiledBom": {}
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Top",
+            "x": 0.1283422459893048,
+            "y": 0.7439759036144579,
+            "uniqueID": "3dc91230-0ce1-4026-a0e0-ac9d1d25399c",
+            "ioValues": [],
+            "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.98,
+                    "y": 0.5,
+                    "uniqueID": "91d82f33-6386-45d0-b541-6c96a19bbbb9",
+                    "ioValues": [],
+                    "description": "Connect geometry here to make it available in the next level up. "
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1,
+            "compiledBom": {}
+        }
+    ],
     "allConnectors": [],
     "unitsKey": "Inches",
     "fileTypeVersion": 1,
