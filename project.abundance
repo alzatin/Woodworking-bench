@@ -20,8 +20,8 @@
         {
             "atomType": "Molecule",
             "name": "Legs",
-            "x": 0.15866388308977036,
-            "y": 0.4126506024096385,
+            "x": 0.1497326203208556,
+            "y": 0.3885542168674699,
             "uniqueID": "b5a3b939-1555-4c51-8f68-02e388354c70",
             "ioValues": [
                 {
@@ -112,7 +112,7 @@
                         {
                             "atomType": "Input",
                             "name": "underheight",
-                            "x": 0.024749999999999998,
+                            "x": 0.0363,
                             "y": 0.5,
                             "uniqueID": "85748a51-ccc9-4fa9-aeef-32ef25bb1b86",
                             "ioValues": [],
@@ -122,7 +122,7 @@
                         {
                             "atomType": "Input",
                             "name": "leg width",
-                            "x": 0.024749999999999998,
+                            "x": 0.0363,
                             "y": 0.7891566265060241,
                             "uniqueID": "d2943f25-4ad1-4dbd-8b8a-d52f8921e5eb",
                             "ioValues": [],
@@ -132,7 +132,7 @@
                         {
                             "atomType": "Input",
                             "name": "Ply 1",
-                            "x": 0.024749999999999998,
+                            "x": 0.0363,
                             "y": 0.32228915662650603,
                             "uniqueID": "87394e17-a1b9-4d17-a389-ff62820bedeb",
                             "ioValues": [],
@@ -305,7 +305,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Number",
-                                    "x": 0.024749999999999998,
+                                    "x": 0.0363,
                                     "y": 0.32869080779944293,
                                     "uniqueID": "a814e12c-904d-4012-936f-7d8e33eb4a5f",
                                     "ioValues": [],
@@ -315,7 +315,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Geometry",
-                                    "x": 0.024749999999999998,
+                                    "x": 0.0363,
                                     "y": 0.9108635097493036,
                                     "uniqueID": "64427a87-e2a0-409f-8428-08738fe59dbb",
                                     "ioValues": [],
@@ -357,7 +357,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "distX",
-                                    "x": 0.024749999999999998,
+                                    "x": 0.0363,
                                     "y": 0.5,
                                     "uniqueID": "b5f16fa9-4bcd-431e-90aa-7c018b4b63a3",
                                     "ioValues": [],
@@ -367,7 +367,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "distY",
-                                    "x": 0.024749999999999998,
+                                    "x": 0.0363,
                                     "y": 0.6174698795180722,
                                     "uniqueID": "e6f155b9-3f0e-4f7c-a84d-c24703b29a74",
                                     "ioValues": [],
@@ -377,7 +377,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "distZ",
-                                    "x": 0.024749999999999998,
+                                    "x": 0.0363,
                                     "y": 0.7650602409638555,
                                     "uniqueID": "b9c3300a-8a8e-4f93-84ce-671c0e6a623a",
                                     "ioValues": [],
@@ -606,7 +606,7 @@
                 {
                     "atomType": "Input",
                     "name": "Und width",
-                    "x": 0.024749999999999998,
+                    "x": 0.0363,
                     "y": 0.5,
                     "uniqueID": "94f6db58-bb83-44a3-af1a-2c5e02bd4b83",
                     "ioValues": [],
@@ -616,7 +616,7 @@
                 {
                     "atomType": "Input",
                     "name": "und depth",
-                    "x": 0.024749999999999998,
+                    "x": 0.0363,
                     "y": 0.7259036144578314,
                     "uniqueID": "a2d0ff02-6a97-488e-9758-79c4709dcb73",
                     "ioValues": [],
@@ -674,7 +674,7 @@
                 {
                     "atomType": "Input",
                     "name": "ply 1",
-                    "x": 0.024749999999999998,
+                    "x": 0.0363,
                     "y": 0.29819277108433734,
                     "uniqueID": "fd7974f0-3028-438d-a667-744f12a19ec3",
                     "ioValues": [],
@@ -916,8 +916,8 @@
         {
             "atomType": "Molecule",
             "name": "Top",
-            "x": 0.1283422459893048,
-            "y": 0.7439759036144579,
+            "x": 0.13168449197860962,
+            "y": 0.7379518072289156,
             "uniqueID": "3dc91230-0ce1-4026-a0e0-ac9d1d25399c",
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
